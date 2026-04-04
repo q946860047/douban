@@ -1,0 +1,13 @@
+{
+  "name": "douban-image-proxy",
+  "version": "1.0.0",
+  "description": "豆瓣图片代理服务",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}
